@@ -1,4 +1,4 @@
-# Heart Disease Prediction Using a Custom Artificial Neural Network
+# Heart Disease Predicticting Artificial Neural Network
 
 ## Overview
 
