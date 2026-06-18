@@ -1,4 +1,3 @@
-# cardiovascular-risk-prediction-ann
 # Heart Disease Prediction Using a Custom Artificial Neural Network
 
 ## Overview
